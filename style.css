@@ -1,0 +1,197 @@
+a{
+    color: #17a2b8 !important;
+    font-size: 16px !important;
+}
+
+.pi-header-row-fixed .pi-header{
+    padding-bottom: 55px;
+}
+
+.btn-info{
+   margin-top: 40px;
+}
+
+.navbar{
+    border-bottom: #c0392b 3px solid;
+    opacity: .7;
+}
+
+.navbar-expand-sm .navbar-nav .dropdown-menu{
+    margin-top: 20px;
+    
+}
+
+.text-info{
+    color: #0dc0c0 !important;
+    margin-bottom: 15px ;
+    letter-spacing: 3px ;
+}
+
+.c-section__titulo{
+    font-size: 30px;
+    border-bottom: 2px solid black ;
+}
+
+.c-section__texto{
+    font-size: 11px;
+}
+
+.c-section__bg{
+    background-image: url(img_external/gallery/team-big.jpg);
+    height: 440px;
+}
+
+.c__img{
+    background: url(img/hexagon.png) repeat;
+}
+
+.c-section{
+    background-color: #21252b;
+    border-top: 3px solid #00aab3;
+    color: white;
+}
+
+.mb-5{
+    color: #3F4449;
+}
+
+.c-top{
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.c-article__text{
+    font-size: 13px;
+}
+
+.c-article__fb{
+    letter-spacing: 18px ;
+}
+
+.c-article__titulo{
+    font-weight: 300;
+}
+
+.c-article__img{
+    background: #f4f6f6;
+}
+
+.c-noticia-carousel__img{
+    background-image: url(img_external/gallery/blue-bird.jpg);
+    min-height: 60vh;
+    background-size: cover;
+    position: relative;
+}
+
+.owl-carousel .owl-item {
+    margin-top: 170px;
+    margin-bottom: 40px;
+    font-size: 26px;
+    color: white;
+    font-weight: 100;
+}
+
+.c-noticia-carousel__text{
+    margin-left: -180px;
+}
+
+.lead-28 a{
+    font-size: 30px !important;
+    font-weight: 100;
+}
+
+.icon-tw{
+    color: #0dc0c0;
+}
+
+.c-noticia-carousel__fecha{
+    font-size: 16px;
+    opacity: .6;
+}
+
+.c-noticia-carousel__enlace{
+    font-weight: 100;
+    width: 60px;
+}
+
+.c-progreso__titulo{
+    font-size: 40px;
+    font-weight: 100;
+    margin-bottom: 40px;
+}
+
+.c-section-skyblue{
+    background: #12a2a7;
+}
+
+.c-section-skyblue__text{
+    color: white;
+    font-size: 36px;
+}
+
+.c-section-testimonios__div{
+    margin-top: 40px;
+}
+
+.c-section-testimonios__titulo{
+    color: #12a2a7;
+    letter-spacing: 3px;
+    font-size: 12px;
+}
+
+.c-section-testimonios__tituloprincipal{
+    font-size: 40px;
+    font-weight: 500;
+}
+
+.c-section-testimonios__texto{
+    font-size: 16px;
+    line-height: 1.6em;
+}
+
+.c-section-logos{
+    margin-top: 240px;
+    background-image: url(img_external/gallery/new-york.jpg);
+    height: 350px;
+}
+
+.c-section-logos__div{
+    background: rgba(30, 35, 41, 0.9);
+}
+
+.c-section-logos__hijo{
+    margin-top: 100px;
+
+}
+
+.c-section-logos__titulo{
+    color: white;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    position: relative;
+}
+
+@media (max-width: 480px){
+
+    .tp-caption{
+        margin-top: -60px !important;
+    }
+
+    .c__titulo{
+        font-size: 20px !important; 
+        line-height: 16px !important;
+    }
+
+    .c__texto{
+      font-size: 16px !important;
+      line-height: 20px !important;
+    }
+
+    .btn-info{
+        margin-top: 50px !important ;
+    }
+
+    
+}
+
+
